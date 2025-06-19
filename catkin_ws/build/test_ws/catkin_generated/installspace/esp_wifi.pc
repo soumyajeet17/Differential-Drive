@@ -1,0 +1,8 @@
+prefix=/home/soumyajeet17/catkin_ws/install
+
+Name: esp_wifi
+Description: Description of esp_wifi
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
